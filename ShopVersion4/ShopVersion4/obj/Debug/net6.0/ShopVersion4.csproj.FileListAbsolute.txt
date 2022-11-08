@@ -1,0 +1,15 @@
+C:\Users\Ieva\source\repos\ShopVersion4\ShopVersion4\obj\Debug\net6.0\ShopVersion4.csproj.AssemblyReference.cache
+C:\Users\Ieva\source\repos\ShopVersion4\ShopVersion4\obj\Debug\net6.0\ShopVersion4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ieva\source\repos\ShopVersion4\ShopVersion4\obj\Debug\net6.0\ShopVersion4.AssemblyInfoInputs.cache
+C:\Users\Ieva\source\repos\ShopVersion4\ShopVersion4\obj\Debug\net6.0\ShopVersion4.AssemblyInfo.cs
+C:\Users\Ieva\source\repos\ShopVersion4\ShopVersion4\obj\Debug\net6.0\ShopVersion4.csproj.CoreCompileInputs.cache
+C:\Users\Ieva\source\repos\ShopVersion4\ShopVersion4\bin\Debug\net6.0\ShopVersion4.exe
+C:\Users\Ieva\source\repos\ShopVersion4\ShopVersion4\bin\Debug\net6.0\ShopVersion4.deps.json
+C:\Users\Ieva\source\repos\ShopVersion4\ShopVersion4\bin\Debug\net6.0\ShopVersion4.runtimeconfig.json
+C:\Users\Ieva\source\repos\ShopVersion4\ShopVersion4\bin\Debug\net6.0\ShopVersion4.dll
+C:\Users\Ieva\source\repos\ShopVersion4\ShopVersion4\bin\Debug\net6.0\ShopVersion4.pdb
+C:\Users\Ieva\source\repos\ShopVersion4\ShopVersion4\obj\Debug\net6.0\ShopVersion4.dll
+C:\Users\Ieva\source\repos\ShopVersion4\ShopVersion4\obj\Debug\net6.0\refint\ShopVersion4.dll
+C:\Users\Ieva\source\repos\ShopVersion4\ShopVersion4\obj\Debug\net6.0\ShopVersion4.pdb
+C:\Users\Ieva\source\repos\ShopVersion4\ShopVersion4\obj\Debug\net6.0\ShopVersion4.genruntimeconfig.cache
+C:\Users\Ieva\source\repos\ShopVersion4\ShopVersion4\obj\Debug\net6.0\ref\ShopVersion4.dll
